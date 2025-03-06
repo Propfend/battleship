@@ -15,7 +15,7 @@ Um emocionante jogo de batalha de narvais em HTML, CSS e JavaScript. Lute contra
 
 ## Instalação
 
-1. Clone o repositório: `git clone https://github.com/ImMarcio/BatalhaNarval.git` 
+1. Clone o repositório: `git clone https://github.com/ImMarcio/battleship.git` 
 2. Abra o arquivo `index.html` em seu navegador.
 
 ## Contribuição
