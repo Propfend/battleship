@@ -1,10 +1,10 @@
-# Jogo de Batalha de Narval
+# Jogo de Batalha de Naval
 
 ![Captura de Tela do Jogo](jogo.png)
 
 ## Descrição
 
-Um emocionante jogo de batalha de narvais em HTML, CSS e JavaScript. Lute contra outros narvais e prove ser o rei dos mares!
+Um emocionante jogo de batalha de navais em HTML, CSS e JavaScript. Lute contra outros navais e prove ser o rei dos mares!
 
 ## Como Jogar
 
